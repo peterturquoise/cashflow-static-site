@@ -9,3 +9,5 @@ dist
 .netlify
 /.vs/slnx.sqlite
 /package-lock.json
+/.vs/cashflow-static-site/config/applicationhost.config
+/.vs/cashflow-static-site/v16/.suo
