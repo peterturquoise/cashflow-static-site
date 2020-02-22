@@ -7,3 +7,5 @@ dist
 .env
 .env.*
 .netlify
+/.vs/slnx.sqlite
+/package-lock.json
