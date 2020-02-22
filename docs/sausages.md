@@ -6,4 +6,4 @@ slug: sausages-page
 ---
 ## Sausage sizzler
 
-![](/cashflow-logo.png "A Sausage page")
+![](/cashflow-logo.png "A Sausage page image")
